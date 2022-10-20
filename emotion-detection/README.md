@@ -1,4 +1,4 @@
-# Emotion_detection_with_CNN
+# Emotion Detection with CNN
 
 ### Packages to be installed in Python environment - 
 - pip install numpy
