@@ -1,3 +1,3 @@
-# Warning: DEPRECATED
+# Eye Tracking using OpenCV libraries
 
-Please use the repo for my book, available here: https://github.com/shantnu/PyEng
+Eye tracking using system camera utilising OpenCV libraries and Python.
